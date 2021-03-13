@@ -1,0 +1,17 @@
+aside.menu-area {
+    background-color: var(--bg-dark);
+    box-shadow: var(--navshadow)
+}
+
+.menu a {
+    display: flex;
+    text-decoration: none;
+    color: #fff;
+    font-weight: 300;
+    padding: 15px;
+}
+
+.menu a:hover {
+    /* separar cada cor do gradiente por virgula */
+    background: linear-gradient(0deg, #07a7e3 0%, #32dac3 100%);
+}

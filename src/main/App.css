@@ -9,6 +9,10 @@
     --shadow:
         0 2px 23px 0 rgba(0, 0, 0, 0.1),
         0 2px 49px 0 rgba(0, 0, 0, 0.06);
+
+    --navshadow:
+        2px 0px 10px 0px rgba(0, 0, 0, 0.12),
+        2px 0px 15px 0px rgba(0, 0, 0, 0.09);
 }
 
 * {
